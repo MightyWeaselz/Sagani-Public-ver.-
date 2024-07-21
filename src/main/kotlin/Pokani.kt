@@ -9,6 +9,8 @@ const val MAX_PLAYERS = 4
 const val INTERMEZZO_SIZE = 4
 const val MAX_CONNECTIONS = 4
 const val SPLASH = """
+const val commit dupe =""
+
 █ ▄▄  ████▄ █  █▀ ██      ▄   ▄█ 
 █   █ █   █ █▄█   █ █      █  ██ 
 █▀▀▀  █   █ █▀▄   █▄▄█ ██   █ ██ 
