@@ -3,3 +3,5 @@
 /.gradle/
 /public/
 /saves
+/src/main/kotlin/view
+/src/main/resources
